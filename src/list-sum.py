@@ -7,7 +7,7 @@
 #	Usage:
 #	 1. git clone https://github.com/takeshitamakoto/sss.git
 #	 2. change the directory name to easy-to-use name. (e.g. sss -> sample)
-#	 3. open sss/src/filename when you need any help . 
+#	 3. open sss/src/filename when you need any help.
 #	
 
 lis=[1,2,3,4,5,6,7,8,9,10]

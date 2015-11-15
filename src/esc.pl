@@ -7,7 +7,7 @@
 #	Usage:
 #	 1. git clone https://github.com/takeshitamakoto/sss.git
 #	 2. change the directory name to easy-to-use name. (e.g. sss -> sample)
-#	 3. open sss/src/filename when you need any help . 
+#	 3. open sss/src/filename when you need any help.
 #	
 
 printf "\x1b[41m(BG)RED\x1b[30m(FG)BLACK\x1b[49;39m\n";
